@@ -30,7 +30,8 @@ const Cart = ({ cart, setCart, handleChange }) => {
             <p>{item.title}</p>
           </div>
           <div>
-            <button onClick={() => handleChange(item, 1)}>+</button>
+            <button onClick={() => 
+              (item, 1)}>+</button>
             <button>{item.amount}</button>
             <button onClick={() => handleChange(item, -1)}>-</button>
           </div>
