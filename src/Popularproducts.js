@@ -1,0 +1,68 @@
+
+export const PopularProducts = [
+  {
+    id: 1,
+    title: "Brogues",
+  btn:"Add to Cart",
+    price: 9499,
+    img: "https://assets.entrepreneur.com/images/misc/1540796620_5.jpg?width=1000",
+    amount: 1,
+  },
+  {
+    id: 2,
+    title: "Brogues",
+    btn:"Add to Cart",
+      price: 9499,
+      img: "https://assets.entrepreneur.com/images/misc/1540796815_4.jpg",
+      amount: 1,
+  },
+  {
+    id: 3,
+    title: "Brogues",
+    btn:"Add to Cart",
+      price: 9499,
+      img: "https://image.shutterstock.com/image-photo/man-shoes-classic-background-600w-1080568838.jpg",
+    amount: 1,
+  },
+  {
+    id: 4,
+    title: "Brogues",
+  btn:"Add to Cart",
+    price: 9499,
+    img: "https://image.shutterstock.com/image-photo/male-classic-shoes-mens-fashion-600w-1798951789.jpg",
+    amount: 1,
+  },
+  {
+    id: 5,
+    title: "Brogues",
+  btn:"Add to Cart",
+    price: 9499,
+    img: "https://cdn11.bigcommerce.com/s-pkla4xn3/images/stencil/1280x1280/products/20759/182786/DXKZMCM-Men-Dress-Shoes-Men-Formal-Shoes-Leather-Luxury-Wedding-Shoes-Men-Oxford-Shoes-Big-Size__88556.1545974459.jpg?c=2?imbypass=on",
+    amount: 1,
+  },
+  {
+    id: 6,
+    title: "Brogues",
+  btn:"Add to Cart",
+    price: 9499,
+    img: "https://cdn11.bigcommerce.com/s-pkla4xn3/images/stencil/1280x1280/products/20759/182796/DXKZMCM-Men-Dress-Shoes-Men-Formal-Shoes-Leather-Luxury-Wedding-Shoes-Men-Oxford-Shoes-Big-Size__54757.1545974467.jpg?c=2?imbypass=on",
+    amount: 1,
+  },
+  {
+    id: 7,
+    title: "Brogues",
+    btn:"Add to Cart",
+      price: 9499,
+      img: "https://cdn11.bigcommerce.com/s-pkla4xn3/images/stencil/1280x1280/products/20759/182793/DXKZMCM-Men-Dress-Shoes-Men-Formal-Shoes-Leather-Luxury-Wedding-Shoes-Men-Oxford-Shoes-Big-Size__62831.1545974465.jpg?c=2?imbypass=on",
+      amount: 1,
+  },
+  {
+    id: 8,
+    title: "Brogues",
+    btn:"Add to Cart",
+      price: 9499,
+      img: "https://cdn11.bigcommerce.com/s-pkla4xn3/images/stencil/1280x1280/products/20759/182797/DXKZMCM-Men-Dress-Shoes-Men-Formal-Shoes-Leather-Luxury-Wedding-Shoes-Men-Oxford-Shoes-Big-Size__29484.1545974468.jpg?c=2?imbypass=on",
+      amount: 1,
+  },
+];
+
